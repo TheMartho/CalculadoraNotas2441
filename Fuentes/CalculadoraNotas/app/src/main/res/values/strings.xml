@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculadoraNotas</string>
+    <string name="Titulo">Registre sus notas para calcular</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="agregar">Agregar</string>
+    <string name="porcentaje">Porcentaje %</string>
+    <string name="nota">Nota</string>
+    <string name="subtitulo">Notas Registradas</string>
+</resources>
