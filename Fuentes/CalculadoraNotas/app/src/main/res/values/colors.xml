@@ -9,4 +9,6 @@
     <color name="icons">#FFFFFF</color>
     <color name="divider">#BDBDBD</color>
     <color name="colorNaranjo">#f0a732</color>"
+    <color name="colorError">#ff414d</color>
+    <color name="colorExitoso">#1aa6b7</color>
 </resources>

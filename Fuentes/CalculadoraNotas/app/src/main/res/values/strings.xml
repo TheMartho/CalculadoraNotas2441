@@ -6,4 +6,5 @@
     <string name="porcentaje">Porcentaje %</string>
     <string name="nota">Nota</string>
     <string name="subtitulo">Notas Registradas</string>
+    <string name="promedio">Promedio</string>
 </resources>
